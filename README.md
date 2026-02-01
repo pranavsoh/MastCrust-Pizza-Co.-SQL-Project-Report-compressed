@@ -1,3 +1,5 @@
+
+<img width="1273" height="692" alt="Screenshot 2025-12-26 181416" src="https://github.com/user-attachments/assets/895bd3c4-5cd0-4fb9-9cd2-77ba53415118" />
 # 🍕 MASTCRUST PIZZA CO. - SQL Project
 
 ## 📝 Overview
